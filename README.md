@@ -39,7 +39,7 @@ project-1/
 ```
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🧱 Data Model — Star Schema
+##  Data Model — Star Schema
 
 ### **Fact Table**
 
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ----------------------------------------------------------------------------------------------------------
 
-## ▶️ Running the Entire Pipeline (Start → End)
+##  Running the Entire Pipeline (Start → End)
 
 ### **1. Place CSV Files**
 
@@ -202,6 +202,7 @@ This project fully demonstrates:
 * Benchmarking and performance reporting
 
 It provides a strong foundation for data engineering and analytical workflows.
+
 
 
 
