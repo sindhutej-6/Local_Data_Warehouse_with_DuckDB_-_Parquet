@@ -28,7 +28,7 @@ This project accomplishes the following:
 
 ##  Project Structure
 
-
+```
 project-1/
 │── data/                     # Input CSV files
 │── output/                   # Generated Parquet files
@@ -36,7 +36,7 @@ project-1/
 │── performance_report.md     # Benchmark results
 │── requirements.txt          # Python dependencies
 │── README.md                 # Project documentation
-
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧱 Data Model — Star Schema
@@ -202,5 +202,6 @@ This project fully demonstrates:
 * Benchmarking and performance reporting
 
 It provides a strong foundation for data engineering and analytical workflows.
+
 
 
